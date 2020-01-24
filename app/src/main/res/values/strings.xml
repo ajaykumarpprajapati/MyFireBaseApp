@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyFireBaseApp</string>
+    <string name="quote">Quote</string>
+    <string name="autho">Autho</string>
+    <string name="save">Save</string>
+    <string name="fetch">Fetch</string>
+    <string name="Signin">sign_in</string>
 </resources>
