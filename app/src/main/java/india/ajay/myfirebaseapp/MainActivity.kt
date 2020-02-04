@@ -44,7 +44,6 @@ class MainActivity : AppCompatActivity() {
        }
     }
 
-
     private fun saveQuote(){
         val quote = quoteEditText?.text.toString()
         val author = authortEditText?.text.toString()
